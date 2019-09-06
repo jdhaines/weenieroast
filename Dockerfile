@@ -25,7 +25,7 @@ FROM python:3.7
 
 WORKDIR /docs
 
-RUN pip install mkdocs pymdown-extensions
+RUN pip install mkdocs mkdocs-material pymdown-extensions
 
 EXPOSE 8180
 
