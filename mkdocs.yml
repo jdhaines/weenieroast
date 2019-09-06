@@ -8,6 +8,10 @@ site_url: http://weenie-roast.com
 # Navigation
 nav:
     - index.md
+    - food.md
+    - drinks.md
+    - activities.md
+    - rsvp.md
 
 # Themes
 theme:
