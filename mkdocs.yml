@@ -12,7 +12,7 @@ nav:
 # Themes
 theme:
     name: 'material'
-    custom_dir: 'weenieroast'
+    custom_dir: './weenieroast'
     # logo: img/
     # favicon: img/
 
