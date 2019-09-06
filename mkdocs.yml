@@ -11,7 +11,7 @@ nav:
 
 # Themes
 theme:
-    name: 'material'
+    name: 'material_base/material'
     custom_dir: 'weenieroast'
     # logo: img/
     # favicon: img/
