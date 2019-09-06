@@ -12,7 +12,12 @@ nav:
 # Themes
 theme:
   name: 'material'
-  # custom_dir: 'weenietheme'
+  custom_dir: 'weenietheme'
+  palette:
+    primary: 'Brown'
+    accent: 'Orange'
+
+  
 
 extra:
     feature:
