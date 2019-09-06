@@ -1,1 +1,39 @@
-site_name: My Docs
+# Project information
+
+site_name: Halloweenie Roast
+site_description: Event page for the 2019 Haines Family Halloweenie Roast
+site_author: Josh Haines
+site_url: weenie-roast.com
+
+# Navigation
+nav:
+    - index.md
+
+# Themes
+theme:
+    name: 'material'
+    custom_dir: 'weenieroast'
+    # logo: img/
+    # favicon: img/
+
+extra:
+    feature:
+        tabs: false
+
+# Extensions
+markdown_extensions:
+    - admonition:
+    - pymdownx.tilde:
+
+# Custom CSS
+extra_css:
+    - 'stylesheets/extra.css'
+
+# Copyright String
+copyright: "Josh Haines - 2019"
+
+# Author String
+site_author: "Josh Haines"
+
+# update serving address and port
+dev_addr: '0.0.0.0:8180'

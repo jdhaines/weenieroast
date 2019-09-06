@@ -3,5 +3,7 @@ services:
     web:
         # image: nginx
         build: . # build from Dockerfile
+        volumes:
+            - .:/docs
         ports:
-            - "5000:80"
+            - "5000:8180"

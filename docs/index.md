@@ -1,4 +1,6 @@
-# Welcome to MkDocs
+# 2019 Halloweenie Roast
+
+Welcome to the event page for the 2019 Haines Family Halloweenie Roast!
 
 For full documentation visit [mkdocs.org](https://mkdocs.org).
 
