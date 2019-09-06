@@ -6,4 +6,4 @@ services:
         volumes:
             - .:/docs
         ports:
-            - "5000:8180"
+            - "80:8180"
