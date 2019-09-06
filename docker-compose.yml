@@ -1,0 +1,7 @@
+version: "3.7"
+services:
+    web:
+        # image: nginx
+        build: . # build from Dockerfile
+        ports:
+            - "5000:80"
