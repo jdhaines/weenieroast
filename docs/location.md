@@ -17,7 +17,7 @@ Feel free to fill the driveway first, then you can overflow into the yard, or al
 
 Our house looks like this:
 
-![house](img/house1.jpg)
+![house](img/house1.JPG)
 
 and this
 
