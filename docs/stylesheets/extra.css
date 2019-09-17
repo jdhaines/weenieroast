@@ -1,3 +1,7 @@
 .md-footer-copyright.right {
-  float: right;
+    float: right;
+}
+.md-nav__button img {
+    width: 75%;
+    height: auto;
 }
