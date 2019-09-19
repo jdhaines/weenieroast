@@ -4,7 +4,7 @@ Welcome to the event page for the 2019 Haines Family Halloweenie Roast!
 
 ## Date
 
-The event will be held **Saturday October 19th, 2019 starting around 4PM**.  You can find the [location here](location.md).
+The event will be held **Saturday November 2nd, 2019 starting around 4PM**.  You can find the [location here](location.md).
 
 ## RSVP
 
