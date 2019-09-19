@@ -21,6 +21,8 @@ I have an aunt who is rather large.  She also happened to be a bit of a fire bug
 
 Every year since there have been multiple comments throughout the night about grease fires.
 
+![tree fire](img/treefire.jpg)
+
 ### Tree Fire
 
 One year, after we had moved up to Plains Drive, it was a pretty cold Weenie Roast.  We decided to have a really big fire that night.  It was nice and warm for everyone around the fire and we ended up pushing the chairs back really far.  At one point the fire looked even bigger than normal and we realized the pine trees above and behind the fire pit had caught on fire!  We didn't have a hose that would reach that far and our [bucket](history.md#water-bucket) wouldn't have done anything.  We just got ready to call the fire department and waited.  Luckily the trees were a little wet and only burned about 1/3 of the way back before the fire put itself out.
